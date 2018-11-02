@@ -1,0 +1,22 @@
+{
+  "name": "react_js",
+  "version": "1.0.0",
+  "description": "# This is for study my React_JS # second",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysjoung/React_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysjoung/React_JS/issues"
+  },
+  "homepage": "https://github.com/ysjoung/React_JS#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
